@@ -25,7 +25,7 @@ function Post({
             <div className="post__headerText">
                 <h3>
                     Rafeh Qazi{" "}
-                    <span>
+                    <span className="post__headerSpecial">
                     <VerifiedIcon className="post__badge" />
                     </span>
                 </h3>
