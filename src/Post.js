@@ -16,9 +16,9 @@ function Post({
     avatar
 }) {
   return ( 
-  <div className="post">
+    <div className="post">
       <div className="post__avatar">
-        <Avatar src="https://pbs.twimg.com/profile_images/1485050791488483328/UNJ05AV8_400x400.jpg" />
+        <Avatar src="https://pbs.twimg.com/profile_images/1492902736592969732/asuDqTgR_400x400.jpg" />
       </div>
       <div className="post__body">
         <div className="post__header">
@@ -26,7 +26,7 @@ function Post({
                 <h3>
                     Rafeh Qazi{" "}
                     <span className="post__headerSpecial">
-                    <VerifiedIcon className="post__badge" />
+                    <VerifiedIcon className="post__badge" /> @cleverqazi
                     </span>
                 </h3>
             </div>
